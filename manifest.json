@@ -1,0 +1,10 @@
+{
+  "name": "DASH Video Player",
+  "description": "Plays MPEG-DASH video streams from a URL in the data.",
+  "author": "Your Name",
+  "id": "dash-video-player",
+  "resources": {
+    "js": ["script.js"]
+  },
+  "style": "style.css"
+}
